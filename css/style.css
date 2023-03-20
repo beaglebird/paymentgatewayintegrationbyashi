@@ -1,0 +1,74 @@
+body{
+    background-color: lavender;
+    font-family: "Montserrat",sans-serif;
+    font-weight: bold;
+}
+.top-container{
+    text-align: center;
+    padding: 7% 15%;
+}
+h1{
+    font-weight: bold;
+}
+.heading-section{
+  background-color: rgb(112, 169, 196);
+  font-weight: bold;
+  height: 150px;
+}
+#testimonial{
+  background-color:aliceblue;
+}
+.testimonial-image{
+    width: 800px;
+    height: 500px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-left: 100px;
+}
+.arrow{
+  color:blueviolet;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+}
+.container-fluid{
+  text-align: center;
+  padding: 5% 10%;
+}
+.name{
+   font-weight: 800;
+   color:aliceblue;
+   font-family: "Ubuntu", sans-serif;
+   line-height: 1.5;
+}
+li {
+    display: inline-block;
+    font-size: 24px;
+    padding: 2px 65px;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 7px 21px;
+  }
+  .navbar a:hover {
+    background-color: black;
+    border: 2px inset white;
+    border-radius: 5px;
+  }
+ img {
+    height: 90px;
+  }
+.nav-item{
+    padding:0 100px;
+   
+}
+.copyright{
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  padding-bottom: 10px;
+}
